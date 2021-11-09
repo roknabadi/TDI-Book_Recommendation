@@ -11,8 +11,7 @@ To overcome this, I divided the database into two parts. These two parts have di
 I used the first part to train, validate and test a DNN model. This model achieved an accuracy of 73% percent. 
 Then I used the second part to perform a transfer learning and recommend books to the users the system has not seen before. This achieved a 70% accuracy.
 
-For convenience, I have divided up the notebook in three parts. The first part focuses on preprocessing and a first pass at training, the second part is on hyperparameter optimization and final training using optimized parameters. Third part is on transfer learning.
-
+For convenience, I have divided up the notebook in four parts. The first part focuses on preprocessing and a first pass at training, the second part is on hyperparameter optimization. The third part is on final training using optimized parameters. The fourth part is on transfer learning.
 
 
 
